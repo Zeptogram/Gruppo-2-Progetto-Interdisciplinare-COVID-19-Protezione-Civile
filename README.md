@@ -4,11 +4,11 @@ Progetto Interdisciplinare COVID19 - Gruppo 2 - ITT.Fauser Novara - Classe 5DIN
 Il Progetto sta avanzando nell'ambito delle discipline coinvolte in esso.
 # Gestione Progetto
 WBS elaborata in Excel e presente anche nel formato PDF per la consultazione. Presente nella cartella "Gestione Progetto Organizzazione".
-Lavoro in corso.
+Lavoro in corso. In fase di sviluppo.
 # Informatica
-Lavoro in corso.
+Lavoro in corso. In fase di terminazione.
 # Tecnologie e Progettazione
-Lavoro in corso.
+Lavoro in corso. In fase di sviluppo.
 # Sistemi e Reti
-Lavoro in corso.
+Lavoro in corso. In fase di sviluppo.
 
