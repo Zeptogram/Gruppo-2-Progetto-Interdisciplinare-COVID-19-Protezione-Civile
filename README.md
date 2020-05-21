@@ -10,7 +10,8 @@ Lavoro in corso. In fase di sviluppo.
 # Informatica
 Lavoro in corso. In fase di terminazione.
 # Tecnologie e Progettazione
-Lavoro in corso. In fase di sviluppo.
+Progetto concluso. Applicazione in funzionamento: http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/
+I dati vengono aggiornati ogni giorno alle 18:30
 # Sistemi e Reti
 Lavoro in corso. In fase di sviluppo.
 
