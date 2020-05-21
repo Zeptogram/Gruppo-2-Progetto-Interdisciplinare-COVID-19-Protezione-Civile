@@ -6,12 +6,11 @@ Elio Gargiulo, Luca Giannotta, Lorenzo Fornara, Alessandro Perrone
 Il Progetto sta avanzando nell'ambito delle discipline coinvolte in esso.
 # Gestione Progetto
 WBS elaborata in Excel e presente anche nel formato PDF per la consultazione. Presente nella cartella "Gestione Progetto Organizzazione".
-Lavoro in corso. In fase di sviluppo.
+Lavoro in corso. In fase di terminazione.
 # Informatica
 Lavoro in corso. In fase di terminazione.
 # Tecnologie e Progettazione
-Progetto concluso. Applicazione in funzionamento: http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/
+Progetto concluso. Applicazione in funzionamento: http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/.
 I dati vengono aggiornati ogni giorno alle 18:30
 # Sistemi e Reti
-Lavoro in corso. In fase di sviluppo.
-
+Lavoro vicino alla conclusione. Revisione finale.
