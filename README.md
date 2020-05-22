@@ -1,12 +1,12 @@
 # Gruppo-2-Progetto-Interdisciplinare-COVID-19-Protezione-Civile
 Progetto Interdisciplinare COVID19 - Gruppo 2 - ITT.Fauser Novara - Classe 5DIN
 # Partecipanti del Gruppo
-<ul>
-<li>Elio Gargiulo</li>
-<li>Luca Giannotta</li>
-<li>Lorenzo Fornara</li>
-<li>Alessandro Perrone</li>
- </ul>
+
+Elio Gargiulo,
+Luca Giannotta,
+Lorenzo Fornara,
+Alessandro Perrone
+
 # Informazioni sull'avanzamento del progetto
 Il Progetto sta avanzando nell'ambito delle discipline coinvolte in esso.
 # Gestione Progetto
