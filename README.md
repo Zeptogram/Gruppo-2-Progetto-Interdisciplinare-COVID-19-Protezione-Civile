@@ -10,7 +10,6 @@ Lavoro in corso. In fase di terminazione.
 # Informatica
 Lavoro in corso. In fase di terminazione.
 # Tecnologie e Progettazione
-Progetto concluso. Applicazione in funzionamento: http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/.
-I dati vengono aggiornati ogni giorno alle 18:30
+Progetto concluso. Applicazione in funzionamento: http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/
 # Sistemi e Reti
 Lavoro vicino alla conclusione. Revisione finale.
