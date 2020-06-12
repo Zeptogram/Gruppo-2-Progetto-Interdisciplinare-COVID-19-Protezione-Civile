@@ -2,10 +2,10 @@
 Progetto Interdisciplinare COVID19 - Gruppo 2 - ITT.Fauser Novara - Classe 5DIN
 # Partecipanti del Gruppo
 
-Elio Gargiulo,
-Luca Giannotta,
-Lorenzo Fornara,
-Alessandro Perrone
+- Elio Gargiulo
+- Luca Giannotta
+- Lorenzo Fornara
+- Alessandro Perrone
 
 # Informazioni sull'avanzamento del progetto
 Il Progetto sta avanzando nell'ambito delle discipline coinvolte in esso.
@@ -15,6 +15,6 @@ Lavoro in corso. In fase di terminazione.
 # Informatica
 Lavoro in corso. In fase di terminazione.
 # Tecnologie e Progettazione
-Progetto concluso. Applicazione in funzionamento: http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/
+Progetto concluso. Applicazione in funzionamento: `http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/`
 # Sistemi e Reti
 Lavoro vicino alla conclusione. Revisione finale.
