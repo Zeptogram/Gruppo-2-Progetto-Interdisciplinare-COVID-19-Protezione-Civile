@@ -2,10 +2,10 @@
 Progetto Interdisciplinare COVID19 - Gruppo 2 - ITT.Fauser Novara - Classe 5DIN
 # Partecipanti del Gruppo
 
-- Elio Gargiulo
-- Luca Giannotta
-- Lorenzo Fornara
-- Alessandro Perrone
+- Fornara Lorenzo
+- Gargiulo Elio
+- Giannotta Luca
+- Perrone Alessandro
 
 # Gestione Progetto
 WBS, Diagramma di Gantt e Document Inital Project elaborati in Excel e presenti anche nel formato PDF per la consultazione. Presenti nella cartella "Gestione Progetto Organizzazione".
