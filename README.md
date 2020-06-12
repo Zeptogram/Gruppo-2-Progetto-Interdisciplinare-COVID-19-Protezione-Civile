@@ -7,14 +7,12 @@ Progetto Interdisciplinare COVID19 - Gruppo 2 - ITT.Fauser Novara - Classe 5DIN
 - Lorenzo Fornara
 - Alessandro Perrone
 
-# Informazioni sull'avanzamento del progetto
-Il Progetto sta avanzando nell'ambito delle discipline coinvolte in esso.
 # Gestione Progetto
-WBS elaborata in Excel e presente anche nel formato PDF per la consultazione. Presente nella cartella "Gestione Progetto Organizzazione".
-Lavoro in corso. In fase di terminazione.
+WBS, Diagramma di Gantt e Document Inital Project elaborati in Excel e presenti anche nel formato PDF per la consultazione. Presenti nella cartella "Gestione Progetto Organizzazione".
+Progetto concluso.
 # Informatica
-Lavoro in corso. In fase di terminazione.
+Progetto concluso.
 # Tecnologie e Progettazione
 Progetto concluso. Applicazione in funzionamento: `http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/`
 # Sistemi e Reti
-Lavoro vicino alla conclusione. Revisione finale.
+Progetto concluso.
