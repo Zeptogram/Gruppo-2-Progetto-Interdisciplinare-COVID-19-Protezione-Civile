@@ -1,6 +1,5 @@
 # Gruppo-2-Progetto-Interdisciplinare-COVID-19-Protezione-Civile
 Progetto Interdisciplinare COVID19 - Gruppo 2 - ITT.Fauser Novara - Classe 5DIN - 2020
-ENG: Final school project concluded in 2020.
 # Partecipanti del Gruppo
 
 - Fornara Lorenzo
@@ -17,3 +16,5 @@ Progetto concluso. Applicazione in funzionamento: https://labs3.fauser.edu/~web1
 Progetto concluso. Applicazione in funzionamento: http://www.netlab.fauser.edu/java-studenti/gruppo2-covid/
 # Sistemi e Reti
 Progetto concluso.
+# ENG
+Final school project concluded in 2020.
